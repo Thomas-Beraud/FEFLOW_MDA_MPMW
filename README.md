@@ -1,6 +1,12 @@
-# Doctorat_INRS
+# FEFLOW_MDA_MPMW
 
 This repo contains the developments of my PhD
+
+MDA correspond to Multiple Data Assimilation as defined by Patrick N. Raanes. 
+
+MPMW is coming from my new method of assimilation Multi-Parameters-Multi-Well
+
+The githug repo contains : 
 
 - Ensemble Assimilation Methods applied to environnemental and hydrogeological studies
 
